@@ -1,1 +1,1 @@
-BookBot is a remastered project!
+BookBot is my first project!
