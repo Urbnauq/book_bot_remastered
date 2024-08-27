@@ -1,1 +1,1 @@
-# book_bot_remastered
+BookBot is a remastered project!
